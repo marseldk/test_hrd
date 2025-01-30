@@ -1,0 +1,15 @@
+user test
+
+user biasa hanya untuk absen
+username = marsel
+pass(default) = test123
+
+user hrd bisa absen, add/edit/view karyawan dan view absenan
+username = marsel_d
+pass(default) = test123
+
+user bisa di tambahkan sesuai role yang di inginkan dari role hrd
+
+folder test_hrd.zip = reactjs
+folder api_hrd.zip = laravel
+
